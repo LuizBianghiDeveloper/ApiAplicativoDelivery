@@ -1,8 +1,8 @@
 ## Database
 
 ```sql
-create database vakinha_burger;
-use vakinha_burger;
+create database "nome banco de dados";
+use "nome banco de dados";
 
 CREATE TABLE IF NOT EXISTS usuario (
   id INT NOT NULL AUTO_INCREMENT,
